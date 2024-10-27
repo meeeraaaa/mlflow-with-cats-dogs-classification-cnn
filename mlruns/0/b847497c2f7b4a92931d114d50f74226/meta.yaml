@@ -1,5 +1,5 @@
 artifact_uri: file:///c:/Users/LENOVO/Desktop/mlflowshit/mlruns/0/b847497c2f7b4a92931d114d50f74226/artifacts
-end_time: null
+end_time: 1730059479042
 entry_point_name: ''
 experiment_id: '0'
 lifecycle_stage: active
@@ -10,6 +10,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1730058446352
-status: 1
+status: 3
 tags: []
 user_id: LENOVO
