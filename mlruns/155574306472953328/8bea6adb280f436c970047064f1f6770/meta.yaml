@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/LENOVO/Desktop/mlflowshit/mlruns/155574306472953328/8bea6adb280f436c970047064f1f6770/artifacts
+end_time: 1730055496681
+entry_point_name: ''
+experiment_id: '155574306472953328'
+lifecycle_stage: active
+run_id: 8bea6adb280f436c970047064f1f6770
+run_name: placid-stoat-214
+run_uuid: 8bea6adb280f436c970047064f1f6770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730055471803
+status: 4
+tags: []
+user_id: LENOVO

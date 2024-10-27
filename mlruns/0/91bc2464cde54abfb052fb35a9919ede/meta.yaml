@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/LENOVO/Desktop/mlflowshit/mlruns/0/91bc2464cde54abfb052fb35a9919ede/artifacts
+end_time: 1730058446202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91bc2464cde54abfb052fb35a9919ede
+run_name: serious-hare-981
+run_uuid: 91bc2464cde54abfb052fb35a9919ede
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730057445805
+status: 3
+tags: []
+user_id
