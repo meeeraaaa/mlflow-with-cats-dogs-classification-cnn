@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847731672344576682/53f2042484724f20bd9fc32a1c40eaf4/artifacts
+end_time: 1730178368034
+entry_point_name: ''
+experiment_id: '847731672344576682'
+lifecycle_stage: active
+run_id: 53f2042484724f20bd9fc32a1c40eaf4
+run_name: Adam_2epochs_32batch
+run_uuid: 53f2042484724f20bd9fc32a1c40eaf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730176224436
+status: 3
+tags: []
+user_id: AnanyaSarkar

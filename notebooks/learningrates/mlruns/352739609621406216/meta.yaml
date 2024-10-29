@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/AnanyaSarkar/Documents/dogscats/notebooks/learningrates/mlruns/352739609621406216
+creation_time: 1730173446494
+experiment_id: '352739609621406216'
+last_update_time: 1730173446494
+lifecycle_stage: active
+name: dog-cat-classification-optimizer-lr-comparison

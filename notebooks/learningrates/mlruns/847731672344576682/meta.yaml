@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/847731672344576682
+creation_time: 1730176222564
+experiment_id: '847731672344576682'
+last_update_time: 1730176222564
+lifecycle_stage: active
+name: dog-cat-classification-optimizer-comparison

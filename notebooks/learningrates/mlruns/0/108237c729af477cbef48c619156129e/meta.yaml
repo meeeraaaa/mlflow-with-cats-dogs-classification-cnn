@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/108237c729af477cbef48c619156129e/artifacts
+end_time: 1730090135334
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 108237c729af477cbef48c619156129e
+run_name: languid-newt-849
+run_uuid: 108237c729af477cbef48c619156129e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730089894643
+status: 4
+tags: []
+user_id: AnanyaSarkar

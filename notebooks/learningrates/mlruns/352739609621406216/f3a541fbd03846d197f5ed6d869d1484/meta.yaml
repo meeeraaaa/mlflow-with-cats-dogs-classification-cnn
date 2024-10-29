@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AnanyaSarkar/Documents/dogscats/notebooks/learningrates/mlruns/352739609621406216/f3a541fbd03846d197f5ed6d869d1484/artifacts
+end_time: 1730173899586
+entry_point_name: ''
+experiment_id: '352739609621406216'
+lifecycle_stage: active
+run_id: f3a541fbd03846d197f5ed6d869d1484
+run_name: Adam_lr_0.001
+run_uuid: f3a541fbd03846d197f5ed6d869d1484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730173892778
+status: 4
+tags: []
+user_id: AnanyaSarkar
